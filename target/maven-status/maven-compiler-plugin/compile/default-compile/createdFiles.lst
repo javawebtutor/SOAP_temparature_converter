@@ -1,0 +1,10 @@
+com\example\soap\soapclient\SOAPController.class
+com\example\soap\soapclient\generated\ObjectFactory.class
+com\example\soap\soapclient\generated\CelsiusToFahrenheitResponse.class
+com\example\soap\soapclient\SOAPConnector.class
+com\example\soap\soapclient\generated\package-info.class
+com\example\soap\soapclient\generated\FahrenheitToCelsius.class
+com\example\soap\soapclient\generated\FahrenheitToCelsiusResponse.class
+com\example\soap\soapclient\SoapclientApplication.class
+com\example\soap\soapclient\Config.class
+com\example\soap\soapclient\generated\CelsiusToFahrenheit.class
